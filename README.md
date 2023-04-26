@@ -18,7 +18,7 @@
 <h3>Custom  Version:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/gerba102/JellyFlix@<version-number>/default.css");
+@import url("https://cdn.jsdelivr.net/gh/gerba102/JellyFlix@main/default.css");
 ```
 
 <h3>With Logos(recommended):</h3>
@@ -32,8 +32,8 @@
 <h3>Custom Version:</h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/gerba102/JellyFlix@<version-number>/default.css");
-@import url("https://cdn.jsdelivr.net/gh/gerba102/JellyFlix@<version-number>/addons/Logo.css");
+@import url("https://cdn.jsdelivr.net/gh/gerba102/JellyFlix@main/default.css");
+@import url("https://cdn.jsdelivr.net/gh/gerba102/JellyFlix@main/addons/Logo.css");
 ```
 
 <br>
