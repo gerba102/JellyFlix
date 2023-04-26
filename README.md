@@ -1,5 +1,3 @@
-> # **Warning** : This skin's development has been halted for sometime. There is no eta as to when I will start working on this skin
-
 <div align="center">
 <h1>JellyFlix</h1>
 <h3>Looks, Feels and Smells like Netflix</h3>
@@ -14,7 +12,7 @@
 <h3>Auto Update: </h3>
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/prayag17/JellyFlix@latest/default.css");
+@import url("https://cdn.jsdelivr.net/gh/gerba102/JellyFlix@latest/default.css");
 ```
 
 <h3>Custom  Version:</h3>
