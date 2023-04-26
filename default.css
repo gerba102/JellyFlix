@@ -5,14 +5,13 @@
   --rounding: 3px;
   --accent: #e50914;
 }
-
-
  
-### Remove Cast & Crew
+/* Remove Cast & Crew */
+
 ```css
-#castCollapsible { display: none; }
+castCollapsible { display: none; }
 `
-#similarCollapsible { display: none; }
+similarCollapsible { display: none; }
 
 /*Highlight*/
 
