@@ -177,7 +177,7 @@ span.material-icons.checkboxIcon.checkboxIcon-checked.check {
 .countIndicator,
 .fullSyncIndicator,
 .playedIndicator {
-  background: linear-gradient(-135deg, rgba(40, 40, 40) 50%, transparent 50%);
+  background: #5dd000;
 }
 
 button.emby-tab-button.emby-button.emby-tab-button-active:hover {
