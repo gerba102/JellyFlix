@@ -6,6 +6,14 @@
   --accent: #e50914;
 }
 
+
+ 
+### Remove Cast & Crew
+```css
+#castCollapsible { display: none; }
+`
+#similarCollapsible { display: none; }
+
 /*Highlight*/
 
 ::-moz-selection {
@@ -352,11 +360,6 @@ div#itemDetailPage {
 }
 
 /* Center the mouseover buttons */
-
-### Remove Cast & Crew
-```css
-#castCollapsible { display: none; }
-```
 
 
 @media (max-width: 62.5em) {
