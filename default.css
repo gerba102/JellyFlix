@@ -353,10 +353,11 @@ div#itemDetailPage {
 
 /* Center the mouseover buttons */
 
-#castContent
-  .cardOverlayButton.cardOverlayButton-hover.itemAction.paper-icon-button-light {
-  margin: auto;
-}
+### Remove Cast & Crew
+```css
+#castCollapsible { display: none; }
+```
+
 
 @media (max-width: 62.5em) {
   .section0 .cardText.cardTextCentered.cardText-first {
