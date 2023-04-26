@@ -6,6 +6,8 @@
   --accent: #e50914;
 }
  
+.guideChannelNumber { display: none; }
+
 /* Remove Cast & Crew */
 
 ```css
